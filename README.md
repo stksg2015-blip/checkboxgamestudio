@@ -6,7 +6,7 @@ with no build step, hosted free on GitHub Pages.
 | Page | Path | Used for |
 |---|---|---|
 | Home | `/` | Apple's Organization check: shows the company and its games |
-| Orbit Hop | `/orbit-hop/` | Marketing URL in App Store Connect |
+| Ringleap | `/ringleap/` | Marketing URL in App Store Connect |
 | Support | `/support/` | Support URL in App Store Connect (required) |
 | Privacy policy | `/privacy/` | Privacy Policy URL in App Store Connect (required) |
 | `app-ads.txt` | `/app-ads.txt` | Not added yet. AdMob gives you its one line once the AdMob account exists |
