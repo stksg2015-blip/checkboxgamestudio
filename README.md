@@ -1,4 +1,4 @@
-# checkboxgamingstudio.com
+# checkboxgamestudio.com
 
 The website of Checkbox Gaming Studio CO. L.L.C S.O.C. It's plain HTML and CSS
 with no build step, hosted free on GitHub Pages.
@@ -15,7 +15,7 @@ This repository must be **public**: GitHub Pages on a free account only
 publishes public repositories. Keep the game's own repository private.
 
 Don't put personal contact details here. Public contact is
-`info@checkboxgamingstudio.com` only.
+`info@checkboxgamestudio.com` only.
 
 ## Preview locally
 
@@ -33,9 +33,9 @@ powershell -ExecutionPolicy Bypass -File .\serve.ps1   # then open http://localh
 2. In the repository: **Settings → Pages**.
    - **Source:** Deploy from a branch.
    - **Branch:** `main`, folder `/ (root)`. Save.
-   - **Custom domain:** `checkboxgamingstudio.com` (already in the `CNAME`
+   - **Custom domain:** `checkboxgamestudio.com` (already in the `CNAME`
      file). Save.
-3. In **GoDaddy → My Products → checkboxgamingstudio.com → DNS**:
+3. In **GoDaddy → My Products → checkboxgamestudio.com → DNS**:
    - **Delete** the existing `A` record for `@` (GoDaddy's "Parked" page), and
      the existing `CNAME` for `www`.
    - **Add** four `A` records, name `@`:
